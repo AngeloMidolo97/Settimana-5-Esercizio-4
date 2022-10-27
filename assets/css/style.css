@@ -1,0 +1,52 @@
+h1 {
+    text-align: center;
+    color: greenyellow;
+}
+
+.apri {
+    padding: 15px;
+    background-color: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.apri:hover {
+    background-color: #58caef;
+}
+
+.menu {
+    background-color: blue;
+    visibility: hidden;
+    width: fit-content;
+}
+
+.menuopen {
+    background-color: blueviolet;
+    visibility: visible;
+}
+
+
+.menu a {
+    display: block;
+    color: white;
+    padding: 20px;
+    text-decoration: none;
+}
+
+li {
+    cursor: pointer;
+}
+
+.rosso {
+    color: red;
+}
+
+.sbarrato {
+    text-decoration:line-through;
+    color: lightgray;
+}
+
+.link {
+    background-color: lightgrey;
+}
